@@ -1,0 +1,49 @@
+Online Food ordering system
+
+Types of users:
+1)Cutomers
+2)Restaurants(Business people)
+3)Delivery people
+
+Functionalities:
+1)Cutomers
+-User login,registration and authentication
+-Browse and search
+-Menu Display
+-Order placement
+-Cart management
+-Checkout and payment
+-Order Tracking
+-User profile
+-User ratings
+
+2)Restaurants:
+-Reastaurant registration
+-Access control
+-Menu management
+-Order notification
+-Order Processing
+-Inventory Management
+-Communication with users
+-Feedback and Reviews
+
+3)Delivery People:
+-Registration
+-Order assignment
+-Route optimization
+-Order details
+-Order status update
+-Communication with customers
+-Profile management
+-Earnings and payout
+-Availability status
+-Feedback and ratings
+
+4)Admin Side:
+-Restaurants management
+-Menu management
+-Order management
+-User management
+-Analytics and Reporting
+-Inventory management
+-Dashboard
