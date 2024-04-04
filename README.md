@@ -1,3 +1,8 @@
+The online food ordering system is a web-based platform designed to streamline the process of ordering food from restaurants. Users can browse through a variety of menus, select their desired items, customize orders, and place them for delivery. 
+The system integrates payment gateways to facilitate secure transactions, allowing users to pay online conveniently. Additionally, it provides features such as order tracking, notifications, and user profiles for a personalized experience. 
+Restaurants benefit from increased visibility and efficient order management, while customers enjoy the convenience of ordering food from their favorite eateries with just a few clicks. 
+Overall, the online food ordering system enhances accessibility and efficiency in the food delivery industry.
+
 Snapshots of the desired system:
 ![image](https://github.com/Hrishikesh121002/Online-Food-ordering-website/assets/74232051/2f808388-50c3-445e-987b-409c3d6ad0b2)
 ![image](https://github.com/Hrishikesh121002/Online-Food-ordering-website/assets/74232051/49abe0f6-8942-4ebe-b54c-43f140b310af)
